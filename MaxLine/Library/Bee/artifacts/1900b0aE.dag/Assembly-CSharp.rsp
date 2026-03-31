@@ -456,6 +456,7 @@
 "Assets/Assets/Standard Assets/Vehicles/Car/Scripts/Suspension.cs"
 "Assets/Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs"
 "Assets/Scripts/Coins.cs"
+"Assets/Scripts/Spawner.cs"
 "Assets/Scripts/Taxi_Move.cs"
 -langversion:9.0
 /deterministic
