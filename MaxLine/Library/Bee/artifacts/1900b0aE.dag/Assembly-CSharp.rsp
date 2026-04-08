@@ -456,6 +456,9 @@
 "Assets/Assets/Standard Assets/Vehicles/Car/Scripts/Suspension.cs"
 "Assets/Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs"
 "Assets/Scripts/Coins.cs"
+"Assets/Scripts/Pause_Menu.cs"
+"Assets/Scripts/Play_Game.cs"
+"Assets/Scripts/Quit_Wind.cs"
 "Assets/Scripts/Spawner.cs"
 "Assets/Scripts/Taxi_Move.cs"
 -langversion:9.0
